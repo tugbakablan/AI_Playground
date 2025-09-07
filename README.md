@@ -9,15 +9,14 @@ The main goal of this repo is not to create production-ready systems, but to **l
 
 ## 📂 Contents
 
-- **Data Science & Visualization**
+- **EDA & Visualization & Feature Engineering(Preprocessing)**
   - Exploratory Data Analysis (EDA)
   - Boxplots, Scatterplots, Pairplots with `matplotlib` and `seaborn`
   - Data manipulation with `NumPy` & `Pandas`
-
-- **Feature Engineering (Resampling & Imbalanced Data)**
   - Manual resampling with `sklearn.utils.resample`
   - Oversampling with **SMOTE** (`imblearn`)
   - Combining oversampling & undersampling strategies
+  - Encoding
 
 - **Machine Learning**
   - Regression (Linear, Polynomial, etc.)
